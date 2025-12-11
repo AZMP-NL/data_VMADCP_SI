@@ -24,7 +24,7 @@ Second of the measurement (0-59)
 Decimal day of the measurement (0-366)
 
 8. "distance(5Km_bin)"
-Distance of the measurements since Station SI-01 along Seal Island section
+Distance of the measurements since Station SI-01 (53.23N, -55.65E) along Seal Island section
 
 9. "depth(m)"
 Depth of the measurement
@@ -37,7 +37,7 @@ Northward velocity in cm/s
 
 12. "Latitude"
 Latitude of the measurement (Decimal degrees North - XX.XX N)
-53.60	304.97	-55.03	
+
 13. "Longitude(360deg)"
 Longitude of the measurement (Decimal degrees 0-359.99)
 
@@ -65,7 +65,7 @@ Northward Volume transport on the pixel
 
 --- Credit ---
 
-The data were curated by Steve Snook at the Northwest Atlantic Fisheries Centre for the account of the Atlantic Zone Monitoring Program of Fisheries and Oceans Canada.
+The data were curated by Steve Snook at the Northwest Atlantic Fisheries Centre for the account of the Atlantic Zone Monitoring Program (AZMP) of Fisheries and Oceans Canada (DFO).
 
 Further description of the data can be found in the following publication:
 
