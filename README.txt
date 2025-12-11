@@ -1,9 +1,4 @@
-Description of a dataset corresponding to Vessel Mounted Acoustic Doppler Currrent Profiler (VM-ADCP; Teledyne RD Instruments 75 kHz Ocean Surveyor) data along hydrographic section Seal Island (SI) of the Atlantic Zone Monitoring Program since 2008.
-The ADCP was setup in narrow band single-ping profile mode with bottom track enabled, using an 8-m bin size, 8-m blanking distance, 3 s between ensembles, and 1.5 s between bottom and water pings.
-This enabled vertical profiles to be collected with a top bin between 16-40 m (dependent on vessel draft) and bottom bin as deep as 650 m.
-Navigation data were collected using a differential GPS and/or 3D differential GPS when possible.
-Single ping data with navigation referencing (with bottom-track referencing applied during GPS outages) were quality controlled to apply corrections/calibrations, remove spikes, and correct vessel heading using the CODAS3 software suite developed by the University of Hawaii.
-Data were then extracted from CODAS3 archives with a percent good threshold of 70 – 80%, and de-tided using tidal predictions obtained from a high-resolution 2-dimensional numerical tidal model with observational sea level datasets (WebTide).
+Description of a dataset corresponding to Vessel Mounted Acoustic Doppler Currrent Profiler (VM-ADCP; Teledyne RD Instruments 75 kHz Ocean Surveyor) data along hydrographic section Seal Island (SI) of the Atlantic Zone Monitoring Program since 2008. The ADCP was setup in narrow band single-ping profile mode with bottom track enabled, using an 8-m bin size, 8-m blanking distance, 3 s between ensembles, and 1.5 s between bottom and water pings. This enabled vertical profiles to be collected with a top bin between 16-40 m (dependent on vessel draft) and bottom bin as deep as 650 m. Navigation data were collected using a differential GPS and/or 3D differential GPS when possible. Single ping data with navigation referencing (with bottom-track referencing applied during GPS outages) were quality controlled to apply corrections/calibrations, remove spikes, and correct vessel heading using the CODAS3 software suite developed by the University of Hawaii. Data were then extracted from CODAS3 archives with a percent good threshold of 70 – 80%, and de-tided using tidal predictions obtained from a high-resolution 2-dimensional numerical tidal model with observational sea level datasets (WebTide).
 
 Each of the 21 files correspond to an individual mission and contains the following columns:
 
@@ -71,6 +66,7 @@ Northward Volume transport on the pixel
 --- Credit ---
 
 The data were curated by Steve Snook at the Northwest Atlantic Fisheries Centre for the account of the Atlantic Zone Monitoring Program of Fisheries and Oceans Canada.
+
 Further description of the data can be found in the following publication:
 
 Lin, P., R.S. Pickart, F. Cyr, S. Snook, F. Bahr & S.J. Déry. The Labrador boundary current system and its influence on cross-shelf exchange, submitted to Journal of Physical Oceanography, October 2025.
